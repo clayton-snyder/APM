@@ -1,0 +1,52 @@
+[
+    {
+        "productId": 1,
+        "productName": "Excitebike",
+        "console": "NES",
+        "releaseDate": "Nov 30, 1984",
+        "description": "A classic motocross racing game.",
+        "price": 19.95,
+        "starRating": 3.2,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/f/f8/Excitebike_cover.jpg"
+    },
+    {
+        "productId": 2,
+        "productName": "EarthBound",
+        "console": "SNES",
+        "releaseDate": "Aug 27, 1994",
+        "description": "A quirky, cult classic RPG.",
+        "price": 279.99,
+        "starRating": 4.8,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/1f/EarthBound_Box.jpg"
+    },
+    {
+        "productId": 5,
+        "productName": "Star Fox 64",
+        "console": "Nintendo 64",
+        "releaseDate": "April 27, 1997",
+        "description": "A legendary on-rails shooter.",
+        "price": 17.49,
+        "starRating": 4.4,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/63/StarFox64_N64_Game_Box.jpg"
+    },
+    {
+        "productId": 8,
+        "productName": "Super Mario World",
+        "console": "SNES",
+        "releaseDate": "Nov 21, 1990",
+        "description": "Yoshi's first appearance is in this classic entry to the Mario series.",
+        "price": 37.55,
+        "starRating": 5,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/32/Super_Mario_World_Coverart.png"
+    },
+    {
+        "productId": 10,
+        "productName": "Harvest Moon 64",
+        "console": "Nintendo 64",
+        "releaseDate": "Feb 5, 1999",
+        "description": "Sequel to the original farming simulation game.",
+        "price": 32.00,
+        "starRating": 3.85,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6a/Harvest_Moon_64_Coverart.png"
+    }
+]
